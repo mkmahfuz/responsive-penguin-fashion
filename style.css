@@ -1,0 +1,35 @@
+body{
+    font-family: 'Roboto', sans-serif;
+    background-color: #fdfdfd;
+}
+.font-bebas{
+    font-family: 'Bebas Neue', cursive;
+}
+h1{
+    font-size: 5rem;
+}
+h2{
+    font-size: 2.5rem;
+}
+.section-bg{
+    background-color: #fffbf0;
+}
+.nav-item a{
+    font-weight:700;
+}
+#brand-img1{
+    width:250px;
+}
+.img-w-300{
+    width: 20rem;
+}
+.btn-bg{
+    background-color: #91AB2A;
+}
+
+.magenta-text{
+    color: #363958;
+}
+.yellow-text{
+    color: #fabe4c;
+}
