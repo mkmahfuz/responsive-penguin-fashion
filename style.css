@@ -1,6 +1,9 @@
 body{
     font-family: 'Roboto', sans-serif;
-    background-color: #fdfdfd;
+    background-color: #f8f9fa;
+}
+.bg-gray{
+    background-color: #f1f1f1;
 }
 .font-bebas{
     font-family: 'Bebas Neue', cursive;
@@ -10,6 +13,12 @@ h1{
 }
 h2{
     font-size: 2.5rem;
+}
+h3{
+    font-size: 2rem;;
+}
+h4{
+    font-size:1.5rem;
 }
 .section-bg{
     background-color: #fffbf0;
@@ -23,8 +32,11 @@ h2{
 .img-w-300{
     width: 20rem;
 }
-.btn-bg{
+.btn-bg1{
     background-color: #91AB2A;
+}
+.btn-bg{
+    background-image: linear-gradient(180deg,#91AB2A,#a4bc46);
 }
 
 .magenta-text{
@@ -32,4 +44,25 @@ h2{
 }
 .yellow-text{
     color: #fabe4c;
+}
+.gold-text{
+    color: #fabe4c;
+}
+
+.custom-card-footer{
+    background-color: rgba(0,0,0,0);
+    border:none;
+}
+.buy-button{
+    border-radius: 10px;
+    background-image: linear-gradient(180deg,#91AB2A,#a4bc46);
+    color:white;
+}
+.infogram{
+
+}
+.infogram img{
+    width:50%;
+    
+    
 }
