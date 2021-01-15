@@ -60,19 +60,17 @@ h4{
 }
 
 #infogram-row{
-    position:relative;
-    
+    position:relative;    
 }
+
 #infogram-icon img{
     height:100px; 
-    object-fit: scale-down;
-        
+    object-fit: scale-down;        
 }
 
 #infogram-image{
     float:right;
-    width:90%; 
-    
+    width:90%;     
 }
 
 @media (max-width: 768px){
@@ -82,16 +80,13 @@ h4{
     #infogram{
         margin-top: 0px;;
     }
-
     #infogram-row{
         flex-direction: column-reverse;  
         margin-top: -120px;;     
     }
-    #infogram-image{
-        
+    #infogram-image{        
         width:100%; 
-        margin-bottom:30px;
-        
+        margin-bottom:30px;        
     }
     
 
